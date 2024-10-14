@@ -1,3 +1,3 @@
-# React-meals
 
-## This is a demo project
+
+## This is a new project
